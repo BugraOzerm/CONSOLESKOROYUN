@@ -23,12 +23,4 @@ Proje isterleri doğrultusunda, oyun esnasında gerçekleşen önemli olaylar ar
 - Çarpışma (yakalama) kontrolleri ve skor artışı
 - Oyun bitiş sebebi
 
-**Örnek Log Çıktısı:**
-```text
---- OYUN BASLADI ---
-UPDATE -> itemSpawned x=12 y=0
-INPUT -> key=RightArrow playerX=16 playerY=18
-UPDATE -> playerMoved oldX=15 oldY=18 newX=16 newY=18
-UPDATE -> itemMoved x=12 y=1
-COLLISION -> score=5
-GAME_OVER -> reason=HedefSkoraUlasildi
+
